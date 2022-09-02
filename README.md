@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <img src="src/assets/Logo.svg" alt="Logo" width="160" height="160">
+  <img src="src/assets/logo.svg" alt="Logo" width="160" height="160">
   <h1 align="center">Github Blog</h3>
 </div>
 
