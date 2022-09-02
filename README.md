@@ -41,6 +41,19 @@ The application layout is available on Figma:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img src="src/assets/logo.svg" alt="Model">
 
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="src/assets/screen1.jpeg" alt="Model">
+
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="src/assets/screen2.jpeg" alt="Model">
+
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img src="src/assets/screen3.jpeg" alt="Model">
+
+
 </p>
 
 <br>

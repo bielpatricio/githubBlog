@@ -5,10 +5,10 @@ export const PostContainer = styled.a`
   flex-direction: column;
   width: 27rem;
   height: 16.5rem;
-  padding: 2rem;
+  padding: 1.5rem;
   margin: 1rem 0 1rem 0;
   gap: 1rem;
-
+  text-decoration: none;
   cursor: pointer;
 
   background-color: ${(props) => props.theme['base-post']};
@@ -41,6 +41,7 @@ export const HeaderPost = styled.header`
     font-weight: 700;
     font-size: 20px;
     max-width: 80%;
+    text-decoration: underline;
   }
 
   > span {
